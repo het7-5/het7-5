@@ -1,5 +1,5 @@
 # Hi there, I'm Het ! 👋
-🔭 I’m currently pursing MS at UNC Charlotte |  Previously SWE @Deloitte<br>👯 I’m looking to collaborate on any Full Stack Web Project w Node/ React/Next.JS<br>🤖 Seeking Internship Opportunities | Summer 2026 | Gen-AI, AI Automation & Full-Stack Development<br>💬 Ask me about WebDev, JavaScript, TypeScript, SAP UI5, Next...Node...<..>....JS<br>⚡ Fun fact: While working as an Intern, I created 3,500+ entry points and mapped over 15,000 business catalog MANUALLY— {this was before GPT made things easier!}
+🔭 I’m currently pursing MS at UNC Charlotte |  Previously SWE @Deloitte<br>👯 I’m looking to collaborate on any Full Stack Web Project w Node/ React/Next.JS<br>🤖 Seeking Internship Opportunities | Summer 2026 | Gen-AI, AI Automation & Full-Stack Development<br>💬 Ask me about WebDev, JavaScript, TypeScript, SAP UI5, Next...Node...<..>....JS<br>
 
 
 ## 🌐 Socials:
