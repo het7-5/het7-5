@@ -1,5 +1,5 @@
 # Hi there, I'm Het ! 👋
-🔭 I’m currently pursing MS at UNC Charlotte |  Previously SWE @Deloitte<br>👯 I’m looking to collaborate on any Full Stack Web Project w Node/ React/Next.JS<br>🤖 Seeking Internship Opportunities | Summer 2026 | Software Development, Gen-AI, AI Automation & Full-Stack Development<br>💬 Ask me about WebDev, JavaScript, TypeScript, SAP UI5, Next...Node...<..>....JS<br>🌱 I'm currently building AI agents using Next.js that leverage Retrieval-Augmented Generation (RAG) for smarter, context-aware responses.
+🔭 I’m currently pursing MS at UNC Charlotte |  Previously SWE @Deloitte<br>👯 I’m looking to collaborate on any Full Stack Web Project w Node/ React/Next.JS<br>🤖 Seeking Internship Opportunities | Summer 2026 | Software Development, Data Engineer, Gen-AI, AI Automation & Full-Stack Development<br>💬 Ask me about WebDev, JavaScript, TypeScript, SAP UI5, Next...Node...<..>....JS<br>🌱 I'm currently building AI agents using Next.js that leverage Retrieval-Augmented Generation (RAG) for smarter, context-aware responses. 
 
 
 ## 🌐 Socials:
