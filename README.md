@@ -1,5 +1,17 @@
 # Hi there, I'm Het ! 👋
-🔭 I’m currently pursing MS at UNC Charlotte |  Previously SWE @Deloitte<br>👯 I’m looking to collaborate on any Full Stack Web Project w Node/ React/Next.JS<br>🤖 Seeking Internship Opportunities | Summer 2026 | Software Development, Data Engineer, Gen-AI, AI Automation & Full-Stack Development<br>💬 Ask me about WebDev, JavaScript, TypeScript, SAP UI5, Next...Node...<..>....JS<br>🌱 I'm currently building AI agents using Next.js that leverage Retrieval-Augmented Generation (RAG) for smarter, context-aware responses. 
+
+🎓 MS in Computer Science @ UNC Charlotte  
+💼 Former Analyst @ Deloitte  
+
+🚀 **Backend & Data-Oriented Engineer**  
+I specialize in building **scalable APIs, system integrations, and data-driven backend services**.  
+I enjoy working with large datasets, designing reliable data pipelines, and enabling analytics through well-structured backend systems.
+
+🔎 **Seeking Paid Internship Opportunities — Summer 2026**  
+Roles of interest:
+- Backend Software Engineer Intern  
+- Data Engineer Intern  
+- Platform / Systems Engineer Intern  
 
 
 ## 🌐 Socials:
