@@ -1,6 +1,6 @@
 # Hi there, I'm Het ! 👋
 
-🎓 MS in Computer Science @ UNC Charlotte  
+🎓 MS in Information Technology @ UNC Charlotte  
 💼 Former Analyst @ Deloitte  
 
 🚀 **Backend & Data-Oriented Engineer**  
