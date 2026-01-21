@@ -7,7 +7,7 @@
 I specialize in building **scalable APIs, system integrations, and data-driven backend services**.  
 I enjoy working with large datasets, designing reliable data pipelines, and enabling analytics through well-structured backend systems.
 
-🔎 **Seeking Paid Internship Opportunities — Summer 2026**  
+🔎 **Seeking Internship / Full Time Opportunities — Summer 2026**  
 Roles of interest:
 - Backend Software Engineer Intern  
 - Data Engineer Intern  
